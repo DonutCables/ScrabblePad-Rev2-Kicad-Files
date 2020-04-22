@@ -1,2 +1,2 @@
-# scrabblepad_kicad_files
+# ScrabblePad_Kicad_Files
  Kicad-specific files for ScrabblePad
